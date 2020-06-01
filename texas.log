@@ -1,0 +1,31 @@
+
+. 
+end of do-file
+
+. do "C:\Users\barth\AppData\Local\Temp\STDe4930_000000.tmp"
+
+. 
+. * Estimation 1: Texas model of black male prisoners (per capita)
+. use ../data/smoking.dta, replace
+file ../data/smoking.dta not found
+r(601);
+
+end of do-file
+
+r(601);
+
+. do "C:\Users\barth\AppData\Local\Temp\STDe4930_000000.tmp"
+
+. 
+. cd "C:\Users\barth\OneDrive\Desktop\Smoking\Data"
+C:\Users\barth\OneDrive\Desktop\Smoking\Data
+
+. 
+end of do-file
+
+. do "C:\Users\barth\AppData\Local\Temp\STDe4930_000000.tmp"
+
+. cd "C:\Users\barth\OneDrive\Desktop\Smoking\Data"
+C:\Users\barth\OneDrive\Desktop\Smoking\Data
+
+. capture log close
